@@ -61,7 +61,7 @@ const Home = () => {
               Protecting workers with advanced AI-powered safety detection
             </p>
             <a 
-              href="/ai-detect" 
+              href="https://safety-frontend.vercel.app/ai-detect" 
               className="inline-block bg-white text-blue-900 px-8 py-3 rounded-md hover:bg-blue-50 transition duration-300"
             >
               Try Demo
